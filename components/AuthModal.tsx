@@ -37,7 +37,7 @@ function AuthModal() {
       title="Welcome Back"
       description="Login to your account"
       isOpen={isOpen}
-      onChange={() => {}}
+      onChange={onChange}
     >
       <Auth
         theme="dark"
