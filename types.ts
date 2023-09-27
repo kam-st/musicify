@@ -40,7 +40,7 @@ export type Subscription = {
   status?: Stripe.Subscription.Status;
   metadata?: Stripe.Metadata;
   price_id?: string;
-  quanity?: string;
+  quanity?: number;
   cancel_at_period_end?: boolean;
   created: string;
   current_period_start: string;
