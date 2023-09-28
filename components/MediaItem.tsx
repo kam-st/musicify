@@ -28,7 +28,7 @@ function MediaItem({ data, onClick }: MediaItemProps) {
           fill
           src={imageUrl || "/images/liked.png"}
           alt="Media Item"
-          className="object-cover"
+          className="object-cover rounded-md"
         />
       </div>
       <div className="flex flex-col gap-y-1 overflow-hidden">
