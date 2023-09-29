@@ -8,7 +8,7 @@ Build this project to practice frontend skills and front end application.
 
 You can check out the demo with following link.
 
-https://musicify-hln9f73ty-kam-sts-projects.vercel.app/
+[https://musicify-hln9f73ty-kam-sts-projects.vercel.app/](https://musicify-fawn.vercel.app/)
 
 To check complete functionality, register to application.
 
