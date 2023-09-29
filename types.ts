@@ -43,6 +43,10 @@ export type Price = {
   products?: Product;
 };
 
+export type ProductWithPrice = {
+  prices?: Price[];
+} & Product;
+
 export type Subscription = {
   id: string;
   user_id: string;
